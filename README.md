@@ -32,13 +32,6 @@
 </div>
  <br>
 
-<!-- Contador de Visitantes !-->
-<div align="center">
-  <br><p align="center"><b>Quantidade de visitantes</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{odaniellevi}/count.svg" /></p> 
-  <br>
-</div>
-
 <div align="center"> 
   <a href="https://instagram.com/codebydaniell" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:danilevi2005@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
